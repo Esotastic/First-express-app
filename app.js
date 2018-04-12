@@ -1,1 +1,2 @@
-console.log("text");
+var express = require("express");
+var app = express();
