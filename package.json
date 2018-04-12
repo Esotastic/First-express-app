@@ -1,0 +1,23 @@
+{
+  "name": "firstexpressapp",
+  "version": "1.0.0",
+  "description": "Some practice with the Express framework",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esotastic/First-express-app.git"
+  },
+  "author": "Chris Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esotastic/First-express-app/issues"
+  },
+  "homepage": "https://github.com/Esotastic/First-express-app#readme"
+}
